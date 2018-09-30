@@ -1,29 +1,3 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Este site foi construído para servir de diário de bordo para a disciplina de Questões de Mídia Digital, do curso de Design Mídias Digitais da PUC-Rio (Pontifícia Universidade Católica do Rio de Janeiro). O endereço acessível para o site é <http://patchwork.gutopereira.com>.
