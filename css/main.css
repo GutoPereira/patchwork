@@ -1,0 +1,31 @@
+#slide-out {
+  background-color: #222;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  width: 35rem;
+}
+
+#slide-content {
+  flex: 1 0 auto;
+}
+
+.brand-logo {
+  text-align: center;
+  padding-top: 8rem;
+}
+
+.page-footer {
+  background-color: #111;
+}
+
+footer {
+  font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+}
+
+section#content-container {
+  display: flex;
+  flex-direction: row;
+  padding-left: 35rem;
+}
