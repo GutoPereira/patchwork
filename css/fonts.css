@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700,800i&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+html, body {
+  font-family: 'Open Sans', 'sans-serif';
+  font-size: 10px;
+}
+
+.title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
