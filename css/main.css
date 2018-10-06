@@ -6,13 +6,31 @@
   width: 35rem;
 }
 
-#slide-content {
-  flex: 1 0 auto;
-}
-
 .brand-logo {
   text-align: center;
   padding-top: 8rem;
+  padding-bottom: 4rem;
+}
+
+#labels-holder {
+  flex: 1 0 auto;
+}
+#labels-holder ul {
+  border: none;
+}
+
+#labels-holder ul li i{
+  padding-right: 1.5rem;
+}
+
+#labels-holder ul li {
+  background-color: #222;
+  color: #ddd;
+  font-size: 1.8rem;
+}
+
+.collection .collection-item {
+  border: none;
 }
 
 .page-footer {
