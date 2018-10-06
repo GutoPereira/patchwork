@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="css/fonts.css"/>
     <link rel="stylesheet" href="css/main.css"/>
     <link rel="stylesheet" href="css/normalize.css"/>
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>
   </head>
   <body class="has-fixed-sidenav">
     <!-- side nav -->
