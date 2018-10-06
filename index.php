@@ -2,7 +2,7 @@
 <html lang="pt-br">
   <head>
     <meta charset="utf-8">
-    <title>#Patchwork</title>
+    <title>Patchwork</title>
     <meta name="author" content="Guto Pereira (guto.pereira@live.com)">
     <meta name="robots" content="no-index,no-follow">
     <!--Import Google Icon Font-->
@@ -14,7 +14,6 @@
     <!--[if lt IE 9]>
       <script src="js/siv/html5shiv.js"></script>
     <![endif]-->
-
     <link rel="stylesheet" href="css/fonts.css"/>
     <link rel="stylesheet" href="css/main.css"/>
     <link rel="stylesheet" href="css/normalize.css"/>
