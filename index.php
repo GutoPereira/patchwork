@@ -33,8 +33,21 @@
       </div>
       <div id="labels-holder">
         <ul class="collection">
-        <li class="collection-item valign-wrapper" dataset-label="technology" onclick="change(this)"><i class="material-icons orange-text left">toggle_on</i> Tecnologia</li>
-        <li class="collection-item valign-wrapper" dataset-label="popculture" onclick="change(this)"><i class="material-icons orange-text left">toggle_on</i> Cultura Pop</li>
+          <li class="collection-item valign-wrapper noselect" dataset-label="interaction-design" onclick="change(this)">
+            <i class="material-icons orange-text left">toggle_on</i> Design de Interação
+          </li>
+          <li class="collection-item valign-wrapper noselect" dataset-label="electronic-arts" onclick="change(this)">
+            <i class="material-icons orange-text left">toggle_on</i> Arte Eletrônica
+          </li>
+          <li class="collection-item valign-wrapper noselect" dataset-label="prototyping" onclick="change(this)">
+            <i class="material-icons orange-text left">toggle_on</i> Prototipação
+          </li>
+          <li class="collection-item valign-wrapper noselect" dataset-label="inteligent-objects" onclick="change(this)">
+            <i class="material-icons orange-text left">toggle_on</i> Objetos Inteligentes
+          </li>
+          <li class="collection-item valign-wrapper noselect" dataset-label="data-visualization" onclick="change(this)">
+            <i class="material-icons orange-text left">toggle_on</i> Visualização de dados
+          </li>
         </ul>
       </div>
       <li>
