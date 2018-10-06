@@ -73,6 +73,25 @@
           </div>
         </article>
       </div>
+      <!-- Modal Structure -->
+      <div id="modal1" class="modal">
+        <div class="modal-footer">
+          <a href="#!" class="modal-close waves-effect waves-teal btn-flat"><span class="orange-text">X</span> FECHAR</a>
+        </div>
+        <div class="modal-content">
+          <h4>Gênesis</h4>
+
+          <p>Durante a primeira aula com a presença da professora <a class="modal-trigger" href="#modal3">Rejane Spitz</a>, foi explicado o que era a disciplina e como nós deveríamos encarar o resto do semestre. Segundo ela, a disciplina é como se fosse uma grande colcha de retalhos, onde “aperitivos” de assuntos variados de mídia digital são expostos para que os alunos possam ter uma ideia das possibilidades da área dentro do design e da sociedade.</p>
+
+          <p>A partir disso, surgiu toda a inspiração para o desenvolvimento desse blog. Seu conceito é simular uma colcha de retalhos digital, onde as postagens compõem um mosaico interativo. As postagens são filtradas por etiquetas definidas pelo usuário e expostas lado a lado.</p>
+
+          <p>Para o projeto de design do blog, foram escolhidas as fontes <b><em>Open Sans Extra-bold italic</em></b> para os títulos, Open Sans Regular para o corpo de texto e <span style="font-family:'Raleway', sans-serif">Raleway</span> para títulos menores e inserções. Ambas as fontes são gratuitas e foram importadas pelo site Google Fonts.</p>
+
+          <p>As cores que compõem a chamada quadricromia, Ciano, Magenta, Amarelo e Preto (abreviadas do inglês como <b class="cyan-text">C</b><b class="red-text">M</b><b class="yellow-text text-darken-2">Y</b><b>K</b>) foram utilizadas para desenvolver o logo, que se utiliza da forma de uma tralha (também chamada por “hashtag” ou “jogo da velha”) para representar um dos retalhos dessa grande colcha de retalhos digital.</p>
+
+          <p>O framework <a href="https://materializecss.com/" target="blank">Materialize</a> foi utilizado para o desenvolvimento  visual do site, que foi totalmente programado pelo autor, <a href="http://gutopereira.com" target="blank">Augusto (Guto) Pereira</a>.</p>
+        </div>
+      </div>
     </section>
     <!-- fim conteudo -->
     <!-- jquery -->
