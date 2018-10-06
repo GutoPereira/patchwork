@@ -62,10 +62,17 @@
     </ul>
     <!-- fim side nav -->
     <!-- conteudo -->
-    <section id="content-container" class="col s12">
-      <ul class="collection">
-        <li class="collection-item">label 1</li>
-      </ul>
+    <section id="content-container" class="row">
+      <div class="container">
+        <article class="col s4" data-labels="interaction-design electronic-arts prototyping intelligent-objects data-visualization">
+          <div class="card">
+            <div class="card-image modal-trigger">
+              <img src="images/posts/1.png" alt="">
+              <a class="modal-trigger" href="#modal1"><span class="card-title">RPG</span></a>
+            </div>
+          </div>
+        </article>
+      </div>
     </section>
     <!-- fim conteudo -->
     <!-- jquery -->
