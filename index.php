@@ -35,7 +35,7 @@
         <footer class="page-footer">
           <div class="container">
             <div class="center-align">
-              <sup>©</sup> 2018 - <a class="text-lighten-4 teal-text" href="http://gutopereira.com">Guto Pereira</a>
+              <sup>©</sup> 2018 - <a class="text-lighten-4 teal-text" href="http://gutopereira.com" target="_blank">Guto Pereira</a>
             </div>
           </div>
         </footer>
