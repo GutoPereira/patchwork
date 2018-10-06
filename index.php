@@ -31,6 +31,12 @@
           </div>
         </li>
       </div>
+      <div id="labels-holder">
+        <ul class="collection">
+        <li class="collection-item valign-wrapper" dataset-label="technology" onclick="change(this)"><i class="material-icons orange-text left">toggle_on</i> Tecnologia</li>
+        <li class="collection-item valign-wrapper" dataset-label="popculture" onclick="change(this)"><i class="material-icons orange-text left">toggle_on</i> Cultura Pop</li>
+        </ul>
+      </div>
       <li>
         <footer class="page-footer">
           <div class="container">
