@@ -5,6 +5,7 @@
     <title>Patchwork</title>
     <meta name="author" content="Guto Pereira (guto.pereira@live.com)">
     <meta name="robots" content="no-index,no-follow">
+    <link rel="stylesheet" href="css/normalize.css"/>
     <!--Import Google Icon Font-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!--Import materialize.css-->
