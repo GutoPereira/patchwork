@@ -92,6 +92,22 @@
           <p>O framework <a href="https://materializecss.com/" target="blank">Materialize</a> foi utilizado para o desenvolvimento  visual do site, que foi totalmente programado pelo autor, <a href="http://gutopereira.com" target="blank">Augusto (Guto) Pereira</a>.</p>
         </div>
       </div>
+      <!-- Modal Structure -->
+      <div id="modal2" class="modal">
+        <div class="modal-footer">
+          <a href="#!" class="modal-close waves-effect waves-teal btn-flat"><span class="orange-text">X</span> FECHAR</a>
+        </div>
+        <div class="modal-content">
+        </div>
+      </div>
+      <!-- Modal Structure -->
+      <div id="modal3" class="modal">
+        <div class="modal-footer">
+          <a href="#!" class="modal-close waves-effect waves-teal btn-flat"><span class="orange-text">X</span> FECHAR</a>
+        </div>
+        <div class="modal-content">
+        </div>
+      </div>
     </section>
     <!-- fim conteudo -->
     <!-- jquery -->
