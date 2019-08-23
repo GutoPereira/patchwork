@@ -13,13 +13,40 @@
   padding: 2px;
 }
 
-.modal-content h4 {
+.modal-content ul, .modal-content ol {
+  margin: 0 2rem;
+}
+
+.modal-content ul li, .modal-content ol li{
+  margin-left: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.modal-content h6,
+.modal-content h5, 
+.modal-content h4, 
+.modal-content h3, 
+.modal-content h2, 
+.modal-content h1{
   font-family: 'Raleway', sans-serif;
-  font-size: 3.4rem;
+  font-weight: 100;
   letter-spacing: 0.1rem;
+}
+
+.modal-content h4 {
+  font-size: 3.4rem;
+}
+
+.modal-content h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.8rem;
   font-weight: 100;
 }
 
 .modal-footer {
   padding: 0px;
+}
+
+#rejane-img {
+  text-align: center;
 }

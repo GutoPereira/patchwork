@@ -31,6 +31,7 @@ body {
   background-color: #222;
   color: #ddd;
   font-size: 1.8rem;
+  display: block;
 }
 
 .collection .collection-item {
@@ -115,12 +116,24 @@ section#content-container {
     padding-left: 0;
   }
 
-  .row .col.s4 {
+  .row .col.m4 {
     height: 33.3333vw;
   }
 
   .card .card-image img  {
     height: 33.3333vw;
   }
+}
+
+@media only screen and (max-width : 600px) {
+  .row .col.s12 {
+    height: 100vw;
+  }
+
+  .card .card-image img  {
+    height: 100vw;
+  }
+
+  
 }
 
